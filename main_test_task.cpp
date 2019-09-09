@@ -21,7 +21,7 @@ int main()
 
     sort_array(n,a);
 
-    delete a;
+    delete [] a;
 
     return 0;
 }
