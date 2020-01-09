@@ -5,7 +5,7 @@ using namespace std;
 
 int get_array_length ()
 {
-    int16_t n;
+    int32_t n;
     cout << "Enter array size ";
     cin >> n;
     if (n<=0)
